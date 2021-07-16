@@ -68,11 +68,20 @@
 <a href="https://github.com/brandon-vo/globe-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brandon-vo&repo=globe-chat&theme=gotham"/>
 </a>
+
+</p>
+
+<p align="center">
 <a href="https://github.com/brandon-vo/arduino-radar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brandon-vo&repo=arduino-radar&theme=gotham"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brandon-vo&repo=arduino-radar&theme=gotham"/>
 </a>
   &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/brandon-vo/book-with-me">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brandon-vo&repo=book-with-me&theme=gotham"/>
 </a>
 </p>
+
+<!-- 
+this took forever to make and look aesthetic
+credit to visitor-badge and github-readme-stats  
+-->
