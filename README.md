@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=brandon-vo"/>
     <a>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
+    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"> -->
 </p>
 
 <img src ="https://user-images.githubusercontent.com/76707560/125880982-d6084f46-01dc-4411-a778-7dd34fca3dbc.jpg">
