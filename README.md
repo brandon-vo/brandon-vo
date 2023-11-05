@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="450px">
+<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="430px">
 
 ### Hi, I'm Brandon! :camera_flash:
 <sub>A Computer Engineering Student at the _University of Waterloo_</sub>
