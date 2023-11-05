@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="400px">
+<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="450px">
 
 ### Hi, I'm Brandon! :camera_flash:
 <sub>A Computer Engineering Student at the _University of Waterloo_</sub>
@@ -74,7 +74,7 @@
 </a>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-vo&layout=compact&theme=gotham&langs_count=6&custom_title=top-languages&card_width=400"/>
-<sup><sub><em>Left: A cool photo I took! See more at <a href="https://www.brandonvo.live/photography" target="_blank">brandonvo.live/photography</a></em></sub></sup>
+<sup><sub><em>A cool photo I took! See more at <a href="https://www.brandonvo.live/photography" target="_blank">brandonvo.live/photography</a></em></sub></sup>
 
 <!-- old readme
 <p align="center">
