@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="500px">
+<img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="400px">
 
 ### Hi, I'm Brandon! :camera_flash:
 <sub>A Computer Engineering Student at the _University of Waterloo_</sub>
@@ -8,7 +8,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brandon-vo&left_color=SlateGray&right_color=SlateBlue)
 <!-- [![GitHub brandon-vo](https://img.shields.io/github/followers/brandon-vo?label=follow&style=social)](https://github.com/brandon-vo) -->
 
-<br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -66,7 +65,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
-<br>
 <a href="https://github.com/brandon-vo/valorant-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brandon-vo&repo=valorant-stats&theme=gotham"/>
 </a>
