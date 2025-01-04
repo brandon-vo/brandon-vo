@@ -1,7 +1,6 @@
 <!-- <img align="left" src="https://github.com/brandon-vo/brandon-vo/assets/76707560/5d6babd0-7f9a-464b-8826-787ad6ef534d" width="420px"> -->
-<!-- <img align="left" src="https://d1l87pqvuy1dz2.cloudfront.net/daily/6-arizona-tea.jpg" width="420px"> -->
-<!-- <img align="left" src="https://d1l87pqvuy1dz2.cloudfront.net/architecture/*traffic-light-1.jpg" width="420px">  -->
-![open-sign-night-cropped](https://github.com/user-attachments/assets/6feb062e-5d46-4b04-9a4c-1be32d94adc8)
+<!-- ![open-sign-night-cropped](https://github.com/user-attachments/assets/6feb062e-5d46-4b04-9a4c-1be32d94adc8) -->
+![fujifilm-mirror-expanded](https://github.com/user-attachments/assets/6b5aa1f6-35c7-42d9-b6b0-36b9c488846d)
 
 <!--
 ### Hi, I'm Brandon! :camera_flash:
